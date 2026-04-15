@@ -9,14 +9,14 @@ Proven track record in:
 
 
 ⚡ Tech Stack
-- Frontend: React, Next.js, Angular, TypeScript
-- Backend: Node.js (NestJS, Fastify, Express), Python (Django, FastAPI)
-- State Management: Redux, React Query, SWR, Apollo Client, Ngrx, RxJS, Elf, Zustand
-- Databases: PostgreSQL, SQLite, MySQL, MongoDB
-- Cloud & DevOps: AWS, GCP, Azure, Docker, CI/CD
-- Testing: Playwright, Cypress, Jest, Testing Library, Supertest, Unittest
-- Messaging & Queues: Redis, RabbitMQ, BullMQ, Celery
-- Agile: Scrum, Extreme Programming (XP)
+- Frontend: *React, Next.js, Angular, TypeScript*
+- Backend: *Node.js (NestJS, Fastify, Express), Python (Django, FastAPI)*
+- State Management: *Redux, React Query, SWR, Apollo Client, Ngrx, RxJS, Elf, Zustand*
+- Databases: *PostgreSQL, SQLite, MySQL, MongoDB*
+- Cloud & DevOps: *AWS, GCP, Azure, Docker, CI/CD*
+- Testing: *Playwright, Cypress, Jest, Testing Library, Supertest, Unittest*
+- Messaging & Queues: *Redis, RabbitMQ, BullMQ, Celery*
+- Agile: *Scrum, Extreme Programming (XP)*
 
 📊 GitHub Stats
 
