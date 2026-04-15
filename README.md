@@ -16,7 +16,7 @@ Proven track record in:
 - Cloud & DevOps: *AWS, GCP, Azure, Docker, CI/CD*
 - Testing: *Playwright, Cypress, Jest, Testing Library, Supertest, Unittest*
 - Messaging & Queues: *Redis, RabbitMQ, BullMQ, Celery*
-- Agile: *Scrum, Extreme Programming (XP)*
+- Agile methodologies: *Scrum, Extreme Programming (XP)*
 
 ### 📊 GitHub Stats
 
