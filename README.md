@@ -1,6 +1,6 @@
 ## Hey, I'm Saad 👋
 Senior Fullstack Engineer with 9+ years of experience designing and delivering scalable web applications using React, Angular, Node.js and Python ecosystems.
-Led development with a strong focus on performance, scalability, and developer experience.
+Led development of startup & enterprise platforms, with a strong focus on domain drives design, security, scalability, performance and best UX/UI.
 
 Proven track record in:
 - Building end-to-end systems (frontend + backend + cloud)
