@@ -24,7 +24,7 @@ Proven track record in:
 
 ### 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=saadaouad&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=saadaouad)
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/saad-aouad-919897b5/
