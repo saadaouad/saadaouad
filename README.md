@@ -19,13 +19,20 @@ Proven track record in:
 - AI Gateway & Toolkit: *LiteLLM, OpenRouter, Vercel AI Gateway*
 - Agile methodologies: *Scrum, Extreme Programming (XP)*
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saadaouad&show_icons=true)
-
-### 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saadaouad)
+<div align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadaouad&show_icons=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=saadaouad"
+    alt="GitHub Streak"
+    width="49%"
+  />
+</div>
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/saad-aouad-919897b5/
