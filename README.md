@@ -28,7 +28,7 @@ Proven track record in:
     width="49%"
   />
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=saadaouad&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=saadaouad"
     alt="GitHub Streak"
     width="49%"
   />
