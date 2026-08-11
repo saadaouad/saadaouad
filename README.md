@@ -1,5 +1,5 @@
 ## Hey, I'm Saad 👋
-Staff Engineer with 9+ years of experience designing and delivering scalable web applications using React, Angular, Node.js and Python ecosystems.
+Software Engineer with 9+ years of experience designing and delivering scalable web applications using React, Angular, Node.js and Python ecosystems.
 Led development of startup & enterprise platforms, with a strong focus on domain drives design, security, scalability, performance and best UX/UI.
 
 Proven track record in:
