@@ -1,23 +1,24 @@
 ## Hey, I'm Saad 👋
-Software Engineer with 9+ years of experience designing and delivering scalable web applications using React, Angular, Node.js and Python ecosystems.
-Led development of startup & enterprise platforms, with a strong focus on domain drives design, security, scalability, performance and best UX/UI.
+Senior Software Engineer with 10 years of experience designing and developing scalable web platforms, with expertise in Python, TypeScript, React, and cloud architectures.
+Specialized in developing AI-powered solutions, integrating Large Language Models (LLMs), automating document processing, and orchestrating intelligent workflows.
+Experienced in integrating computer vision models, OCR technologies, and AI APIs into production applications, from architectural design through deployment.
 
-Proven track record in:
-- Building end-to-end systems (frontend + backend + cloud)
-- Led technical decision making across architecture, system structure and tooling, while mentoring engineers.
-- Delivering high impact products in agile environments
+Areas of Expertise:
+- AI-powered application development and LLM integration.
+- Design and development of AI APIs and services using Python and FastAPI.
+- Workflow automation and asynchronous task orchestration.
+- Software architecture, distributed systems, and cloud integration.
+- Full Stack development and productionization of AI solutions.
+- Technical leadership, mentoring, and architectural decision-making.
 
-
-### ⚡ Tech Stack
-- Frontend: *Typescript, React, Next.js, Vite, Angular*
-- Backend: *Node.js (NestJS, Fastify, Express), Python (Django, FastAPI)*
-- State Management: *Redux, React Query, SWR, Ngrx, RxJS, Elf, Zustand*
-- Databases: *Neon/PostgreSQL, SQLite, MySQL, MongoDB*
-- Cloud & DevOps: *AWS, GCP, Azure, Docker, CI/CD*
-- Testing: *Jest, Testing Library, Vitest, Supertest, Unittest, Playwright, Cypress*
-- Memory Data Store & Queues: *Upstash/Redis, RabbitMQ, BullMQ, Celery*
-- AI Gateway & Toolkit: *LiteLLM, OpenRouter, Vercel AI Gateway*
-- Agile methodologies: *Scrum, Extreme Programming (XP)*
+⚡ Tech Stack
+- AI Engineering & LLMs: OpenAI API, Anthropic API, LLM Integration, AI Gateways (LiteLLM, OpenRouter...), Computer Vision / Object detection, OCR, MCP, Tool Calling, RAG.
+- Backend: Python (FastAPI, Django), Node.js (NestJS, Fastify), REST APIs, GraphQL, Async Processing, WebSockets.
+- Frontend: React, Next.js, Angular, TypeScript, TanStack Query.
+- AI Orchestration & Data Processing: BullMQ, Celery, Redis, RabbitMQ, Document Processing, Workflow Automation.
+- Databases & Data: PostgreSQL, MySQL, MongoDB, SQLite, Drizzle, Prisma, SQLAlchemy.
+- Cloud & Infrastructure: AWS, GCP, Azure, Docker, Kubernetes, CI/CD.
+- Testing & Engineering Practices: Pytest, Unittest, Testing Library, Jest, Vitest, Playwright, Cypress, TDD, DDD, Hexagonal Architecture.
 
 ### 📊 GitHub Stats & Streak
 
