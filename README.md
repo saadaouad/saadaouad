@@ -5,7 +5,7 @@ Experienced in integrating computer vision models, OCR technologies, and AI APIs
 
 Areas of Expertise:
 - AI-powered application development and LLM integration.
-- Design and development of AI APIs and services using Python and FastAPI.
+- Design and development of AI APIs and services using Python and NodeJS.
 - Workflow automation and asynchronous task orchestration.
 - Software architecture, distributed systems, and cloud integration.
 - Full Stack development and productionization of AI solutions.
